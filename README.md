@@ -8,3 +8,6 @@ calculate percentages from a given number "%",
 clear the window "C",
 use brackets "( )" 
 and clear the last added character "<";
+
+
+https://calculator-buli.netlify.app/
